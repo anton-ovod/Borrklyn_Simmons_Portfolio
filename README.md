@@ -28,8 +28,8 @@ Live Demo: [https://www.borrklynsimmons.com](https://www.borrklynsimmons.com)
 
 ## Screenshots
 
-![Home Section](./screenshots/home-section.png)
-![Projects Section](./screenshots/projects-section.png)
+![Home Section](preview1.png)
+![Services Section](preview2.png)
 
 ## How to Use
 
