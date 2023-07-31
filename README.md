@@ -1,14 +1,12 @@
 # Borrklyn Simmons Portfolio Website
 
-![Borrklyn Simmons Portfolio](./screenshot.png)
-
 ## Overview
 
 Borrklyn Simmons Portfolio Website is a responsive website showcasing the portfolio of Borrklyn Simmons. This project was developed as part of my frontend web development practice to improve my skills in HTML, CSS, and JavaScript.
 
 The website includes sections like an introduction, projects showcase, testimonials, and a contact form to provide visitors with a comprehensive view of Borrklyn's work and abilities.
 
-Live Demo: [https://www.borrklynsimmons.com](https://www.borrklynsimmons.com)
+Live Demo: [https://www.borrklynsimmons.com](https://anton-ovod.github.io/Borrklyn_Simmons_Portfolio/)
 
 ## Technologies Used
 
@@ -33,7 +31,7 @@ Live Demo: [https://www.borrklynsimmons.com](https://www.borrklynsimmons.com)
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/borrklyn-portfolio.git`
+1. Clone the repository: `https://github.com/anton-ovod/Borrklyn_Simmons_Portfolio`
 2. Open `index.html` in your web browser to view the website locally.
 
 ## Contribution
